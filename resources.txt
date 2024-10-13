@@ -1,0 +1,8 @@
+导航大纲
+https://github.com/gonglei007/GameDevMind
+https://github.com/utilForever/game-developer-roadmap
+https://github.com/Calinou/awesome-gamedev#readme
+https://github.com/stevinz/awesome-game-engine-dev?tab=readme-ov-file#game-development
+
+理论
+https://github.com/gdgoldlion/Math-Note-for-Game-Dev
