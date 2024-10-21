@@ -6,3 +6,11 @@ https://github.com/stevinz/awesome-game-engine-dev?tab=readme-ov-file#game-devel
 
 理论
 https://github.com/gdgoldlion/Math-Note-for-Game-Dev
+
+game 项目学习
+[https://www.youtube.com/watch?v=AY9MnQ4x3zk](https://www.youtube.com/watch?v=AY9MnQ4x3zk) => pygame入门介绍
+
+[Creating a Zelda style game in Python [with some Dark Souls elements]](https://www.youtube.com/watch?v=QU1pPzEGrqw) => 模仿塞尔达风格
+  配套代码位于 https://github.com/clear-code-projects/Zelda 
+
+https://github.com/clear-code-projects/PyDew-Valley => 模仿星露谷物语
