@@ -14,3 +14,5 @@ game 项目学习
   配套代码位于 https://github.com/clear-code-projects/Zelda 
 
 https://github.com/clear-code-projects/PyDew-Valley => 模仿星露谷物语
+
+[【中字】Godot 3.2像素风ARPG制作教程（全集）](BV15D4y1U7j5) 
